@@ -1,6 +1,11 @@
 # JoyStickCombinationLED
 It is a basic implementation of a simple security system. It reads input from the X and Y axes and checks if a predefined password sequence (in this case, a series of sensor readings) matches the input from the sensors. If there's a match, it activates an LED.
 
+# Components Required
+1X Arduino UNO
+1X JoyStick Analog Module 
+1X LED 
+
 # Working 
   Variable Declarations:
         X_pin and Y_pin are defined as the analog pins connected to X and Y outputs, respectively.
